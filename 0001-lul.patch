@@ -1,0 +1,16 @@
+From 8386da66131bf631d2ec6be3b9355da2626835b7 Mon Sep 17 00:00:00 2001
+From: niclorros <n1c0l0r3nz69@gmail.com>
+Date: Wed, 23 Aug 2017 11:44:44 +0200
+Subject: [PATCH] lul
+
+---
+ readme.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 readme.txt
+
+diff --git a/readme.txt b/readme.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.13.3.windows.1
+
